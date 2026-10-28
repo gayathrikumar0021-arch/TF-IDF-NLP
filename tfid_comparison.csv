@@ -1,0 +1,7 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1 Score (%)
+Linear SVM - TF-IDF,93.26,92.66,93.98,93.31
+Multinomial NB - TF-IDF,90.17,90.95,89.22,90.08
+KNN - TF-IDF,90.02,94.07,85.42,89.53
+Random Forest - TF-IDF,88.91,87.25,91.13,89.15
+Bernoulli NB - TF-IDF,83.44,77.69,93.82,85.0
+Decision Tree - TF-IDF,80.27,79.75,81.14,80.44
